@@ -57,7 +57,7 @@ The project utilizes the Adult Income dataset, which consists of a collection of
 - upload_data.py
    (use to upload a dataset into a MongoDB database)
   
-   =======================================================================
+          =======================================================================
   #OUTPUT:
   
 ![first](https://github.com/aimdatascintist/ML_PROJECT_INCOME_PRICE_PRED/assets/123234894/59a32136-5a99-46ba-8a80-9a84573aeb3b)
@@ -69,7 +69,7 @@ The project utilizes the Adult Income dataset, which consists of a collection of
 
 ![third](https://github.com/aimdatascintist/ML_PROJECT_INCOME_PRICE_PRED/assets/123234894/d45f39b6-bd67-4dae-9132-19413249638d)
 
- ================================================
+        ================================================
   
 
   ******
