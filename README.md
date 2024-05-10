@@ -72,11 +72,12 @@ The project utilizes the Adult Income dataset, which consists of a collection of
                         ================================================
   
 
-  ****
+  ******
+  
 
 https://github.com/aimdatascintist/ML_PROJECT_INCOME_PRICE_PRED/assets/123234894/890ca106-ab33-4222-916a-77b066a61695
 
-**
+
   
 
  ********
